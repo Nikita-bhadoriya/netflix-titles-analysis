@@ -1,5 +1,5 @@
 # netflix-titles-analysis
-# netflix-titles-analysis
+
 This project involves detailed exploration and analysis of Netflix's dataset to understand content trends, genre popularity, production countries, and release patterns. Using Excel and Power BI, we derive actionable insights into content types, durations, and global distributions.
 
 # Dataset Details
