@@ -14,5 +14,5 @@ Clean and preprocess data for analysis Analyze content distribution over the yea
 # Tools Used
 Excel Data preprocessing, visualization Power BI Interactive dashboards
 
-# Key Insights#
+# Key Insights
 Majority of Netflix content is Movies, not TV Shows. United States is the top producer of content on Netflix. Most content was added in 2019 and 2020. Common genres include Dramas, International Movies, and Comedies. Most movies have a duration of 80-100 minutes.
